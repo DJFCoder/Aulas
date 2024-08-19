@@ -1,3 +1,3 @@
-## Estou disponibilizando todo meu material de estudo
+## Here's my first contact with programm logic
 
-* Commits atualizados a cada passo dado.
+* JavaScript.
